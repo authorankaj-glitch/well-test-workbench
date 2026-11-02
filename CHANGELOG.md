@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.1 — 2026-11-02
+
+- Footer license link now opens the repository's LICENSE file (the previous external link returned a 404 in some browsers)
+
 ## v1.0.0 — 2026-11-01
 
 First public release.
